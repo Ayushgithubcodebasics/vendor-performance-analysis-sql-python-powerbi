@@ -122,5 +122,4 @@ python scripts/get_vendor_summary.py
 ## Author & Contact
 
 **Ayush Butoliya**  
-Data Analyst  
-📧 Email: ayushbutoliya22@gmail.com 
+Email: ayushbutoliya22@gmail.com 
