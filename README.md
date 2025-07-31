@@ -119,7 +119,7 @@ python scripts/get_vendor_summary.py
 
 ---
 
-## Author & Contact
+## Contact
 
 **Ayush Butoliya**  
 Email: ayushbutoliya22@gmail.com 
